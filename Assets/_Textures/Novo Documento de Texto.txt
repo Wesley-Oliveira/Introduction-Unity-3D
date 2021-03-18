@@ -1,0 +1,3 @@
+Pra poder utilizar, taca o TextureRenderer na camera principal
+Pega o objeto que queira que reproduza o que a camera vê e taca o Material
+No Material adiciona o TextureRenderer
